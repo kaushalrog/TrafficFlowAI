@@ -154,17 +154,6 @@ The project compares baseline AI models with fuzzy-enhanced models for urban tra
 
 ---
 
-## 📷 Screenshots
-
-Add:
-
-* Traffic Analysis Dashboard
-* Live Monitoring Interface
-* Optimization Panel
-* Congestion Prediction System
-
----
-
 ## 📄 Research Paper (review stage)
 
 Fuzzy Feature Engineering for Urban Traffic Prediction: A Comparative Performance Analysis of LSTM, SNN, Random Forest, and LightGBM
