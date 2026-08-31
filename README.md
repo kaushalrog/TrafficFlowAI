@@ -1,4 +1,4 @@
-# TrafficFlow AI 
+# Fuzzy Feature Engineering for Urban Traffic Prediction: A Comparative Performance Analysis of LSTM, SNN, Random Forest, and LightGBM
 
 AI-powered intelligent traffic management and congestion prediction system using Fuzzy Logic, Machine Learning, and Deep Learning for smart city traffic optimization.
 
@@ -20,15 +20,15 @@ The system predicts congestion levels, optimizes signal timing, estimates travel
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🚗 Intelligent Traffic Prediction
+### Intelligent Traffic Prediction
 
 * Predicts traffic congestion levels
 * Estimates traffic volume and travel time index
 * Supports real-time traffic analysis
 
-### 🧠 Hybrid Fuzzy-AI Architecture
+###  Hybrid Fuzzy-AI Architecture
 
 * Combines fuzzy logic with AI models
 * Human-like reasoning using:
@@ -37,27 +37,27 @@ The system predicts congestion levels, optimizes signal timing, estimates travel
   * Medium congestion
   * High congestion
 
-### 📊 AI Models Implemented
+###  AI Models Implemented
 
 * LSTM
 * Sequential Neural Networks (SNN)
 * Random Forest
 * LightGBM
 
-### ⚡ Smart Traffic Optimization
+###  Smart Traffic Optimization
 
 * Adaptive signal timing
 * Route optimization
 * Delay reduction
 * Flow efficiency analysis
 
-### 🌱 Environmental Insights
+###  Environmental Insights
 
 * CO₂ emission estimation
 * Traffic efficiency metrics
 * Sustainable traffic management support
 
-### 📡 Real-Time Monitoring
+###  Real-Time Monitoring
 
 * Dashboard visualization
 * Incident monitoring
@@ -66,7 +66,7 @@ The system predicts congestion levels, optimizes signal timing, estimates travel
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The platform consists of 3 major layers:
 
@@ -91,11 +91,11 @@ The platform consists of 3 major layers:
 
 ---
 
-## 🔬 Research Highlights
+## Research Highlights
 
 The project compares baseline AI models with fuzzy-enhanced models for urban traffic prediction.
 
-### 📈 Major Findings
+###  Major Findings
 
 * Fuzzy-enhanced Random Forest and LightGBM achieved near-perfect regression accuracy
 * LSTM achieved strong congestion classification performance
@@ -104,7 +104,7 @@ The project compares baseline AI models with fuzzy-enhanced models for urban tra
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Languages & Frameworks
 
@@ -132,7 +132,7 @@ The project compares baseline AI models with fuzzy-enhanced models for urban tra
 
 ---
 
-## 📊 Implemented Modules
+## Implemented Modules
 
 * Traffic Congestion Prediction
 * Traffic Volume Estimation
@@ -143,7 +143,7 @@ The project compares baseline AI models with fuzzy-enhanced models for urban tra
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Reinforcement Learning integration
 * CNN + Vision Transformer traffic analysis
@@ -154,13 +154,13 @@ The project compares baseline AI models with fuzzy-enhanced models for urban tra
 
 ---
 
-## 📄 Research Paper (review stage)
+##  Research Paper (review stage)
 
 Fuzzy Feature Engineering for Urban Traffic Prediction: A Comparative Performance Analysis of LSTM, SNN, Random Forest, and LightGBM
 
 ---
 
-## 👨‍💻 Contributors
+##  Contributors
 
 * Kaushal S
 * Rishitha C
