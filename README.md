@@ -4,7 +4,7 @@ AI-powered intelligent traffic management and congestion prediction system using
 
 ---
 
-##  Overview
+###  Overview
 
 TrafficFlow AI is a hybrid AI-based traffic control and prediction platform designed to improve urban traffic management using:
 
