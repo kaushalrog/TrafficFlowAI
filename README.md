@@ -70,20 +70,20 @@ The system predicts congestion levels, optimizes signal timing, estimates travel
 
 The platform consists of 3 major layers:
 
-### 1️⃣ Data Input Layer
+### 1️ Data Input Layer
 
 * Traffic datasets
 * IoT sensor inputs
 * CCTV feeds
 * Manual traffic parameters
 
-### 2️⃣ AI Engine Layer
+### 2️ AI Engine Layer
 
 * Fuzzification
 * Rule-based inference
 * ML/DL model execution
 
-### 3️⃣ Decision & Control Layer
+### 3️ Decision & Control Layer
 
 * Interactive dashboards
 * Real-time alerts
